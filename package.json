@@ -1,0 +1,23 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "A build package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelFernandez008/test-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelFernandez008/test-package/issues"
+  },
+  "publishConfig": {
+    "@MiguelFernandez008:registry": "https://npm.pkg.github.com"
+  },
+  "homepage": "https://github.com/MiguelFernandez008/test-package#readme"
+}
